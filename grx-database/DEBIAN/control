@@ -1,0 +1,9 @@
+Package: grx-database
+Priority: standard
+Section: grx
+Maintainer: Diputación Provincial de Granada, Oficina de Software Libre <osl@dipgra.es>
+Architecture: amd64
+Version: 2019.01.11
+Depends:sqlite3
+Homepage: https://incidencias.dipgra.es/
+Description: Paquete de configuracion comun - instala la base de datos

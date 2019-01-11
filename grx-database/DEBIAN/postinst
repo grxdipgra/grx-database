@@ -1,0 +1,5 @@
+#!/bin/bash
+
+LOG=/var/log/grx/grx-database.log
+
+echo "grx-database instalado" >>$LOG
